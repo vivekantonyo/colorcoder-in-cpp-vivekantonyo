@@ -25,6 +25,6 @@ per file. See the workflow for details.
 
 ### New Feature Request
 
-The color coding needs to be printed as a reference manual for the concerned telecom personnel.
-Provide a ToString() function in the code that would return the mapping which can be printed as a manual.
+The color coding needs to be printed as a reference manual for the wiring personnel.
+Add a function that would format the color coding in a form that can be printed.
 Also resolve any coding guideline violations.
